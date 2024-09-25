@@ -1,0 +1,64 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.whl
+*.manifest
+*.spec
+*.venv/
+*.env/
+*.virtualenv/
+Pipfile
+Pipfile.lock
+
+# Virtual Environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and Databases
+*.log
+*.sqlite3
+*.db
+
+# Output folders
+output/
+
+# TDesktop sessions and related data
+*.session
+*.tdjson
+tdata/
+*.tdata
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuration files
+config.json
+config.yaml
+config.ini
+*.cfg
+
+# Sensitive files
+*.key
+*.pem
+*.cert
+*.crt
+
+# Miscellaneous
+*~
+*.bak
+*.swp
