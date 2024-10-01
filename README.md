@@ -36,7 +36,7 @@ A Python application that converts Telegram Desktop `tdata` folders into Teletho
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/tdata2session_converter.git
+   git clone https://github.com/nicollasm/tdata2session_converter.git
    cd tdata2session_converter
    ```
 
@@ -163,7 +163,3 @@ Contributions are welcome! Please follow these steps:
    Go to your forked repository on GitHub and click the "New Pull Request" button.
 
 Please make sure your code adheres to the existing style conventions and passes all tests.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
